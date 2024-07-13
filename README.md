@@ -45,7 +45,7 @@ On the flip side, I have next to no design or art background. I am currently in 
 
 I am going through the tutorial series on YouTube by [Branno](https://www.youtube.com/@BrannoDev) on creating a clone of [Vampire Survivors](https://www.youtube.com/watch?v=GFeHlz31KRk) in Godot. You can find his playlist [here](https://www.youtube.com/playlist?list=PLtosjGHWDab682nfZ1f6JSQ1cjap7Ieeb) on the tutorial series. You can find a GitHub repo for what I am doing with this [here](https://github.com/ColdWave-Stuidos/Survivors_Clone).
 
-## Progress
+### Progress
 You can refer to the readme on the [Survivors Clone GitHub repo](https://github.com/ColdWave-Stuidos/Survivors_Clone) for detailed progress, but I am pretty much done with the tutorial itself, and am going to be working on adding some of my own attacks and items to the game to get some practice without needing to follow a tutorial.
 
 ## Pixel Art Portfolio
