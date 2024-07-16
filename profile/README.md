@@ -1,6 +1,6 @@
 # ColdWave Studios
 
-![](Images/Twitter_Banner.png)
+![](../Images/Twitter_Banner.png)
 
 Hi! My name is Russ, and I am the guy behind ColdWave Studios.
 
